@@ -1,0 +1,3 @@
+A walk-through building a predictive time series model for closing daily stock prices.
+Data sourced from "https://www.alphavantage.co". API keys and documentation for use are
+available on the website.
